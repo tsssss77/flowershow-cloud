@@ -52,7 +52,6 @@ console.log("Keep smiling and keep coding!");
 ```
 
 ```python
-# Python wisdom
 def enjoy_life():
     return "Take time to smell the roses."
 ```

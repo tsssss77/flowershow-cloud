@@ -5,7 +5,6 @@ Welcome to my personal corner of the web, where I'll be sharing my thoughts, tra
 ## Recent Posts
 
 - [[life-lessons-learned|Life Lessons Learned]]
-- [[travel-thailand|Travel to Thailand]]
 - [[/blog/javascript-tips|Let's Talk JavaScript]]
 
 ## Featured Content

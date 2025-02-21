@@ -1,64 +1,39 @@
-# My Musings & Memories 🏄‍♀️🏔️💃
+# Flowershow Template 🌸
 
-Welcome to my personal corner of the web, where I'll be sharing my thoughts, travel experiences, coding projects, and much more!
+Welcome to the Flowershow Template! This is a ready-to-use template for creating beautiful websites from your markdown content, particularly optimized for Obsidian vaults.
 
-## Recent Posts
+## What is this template?
 
-- [[life-lessons-learned|Life Lessons Learned]]
-- [[/blog/javascript-tips|Let's Talk JavaScript]]
+This template serves as a foundation for:
+- Publishing your Obsidian vault as a website
+- Creating a new markdown-based website from scratch
+- Building documentation sites, blogs, or personal websites
 
-## Featured Content
+## Getting Started
 
-> [!info] Don't forget to check:
-> [[/blog/chasing-auroras-norway|Chasing Auroras in Norway]]
+You can use this template in two main ways:
 
----
+### 1. Publishing Your Obsidian Vault
 
-### Photo of the Week
+If you have an existing Obsidian vault:
+1. Install Obsidian Flowershow plugin
+2. Adjust the configuration
+3. Publish you vault
 
-![[auroras.jpeg]]
+Your Obsidian links, callouts, and other features will be preserved and rendered beautifully on the web.
 
----
+### 2. Creating a New Site
 
-### Keep in Touch!
+If you're starting from scratch:
+1. Use this template as your base
+2. Modify the content as you wish using an editor of your choise (or GitHub UI)
+3. Add your own markdown files
 
-*Follow me on social media or drop a message. I'd love to hear from you!*
+## Learn More
 
-[![twitter-follow](https://img.shields.io/twitter/follow/myprofile?style=social)](https://twitter.com/myprofile)
-[![github-follow](https://img.shields.io/github/followers/myprofile?style=social)](https://github.com/myprofile)
-
----
-
-> [!tip] If you want to start your own blog, I've compiled a helpful guide
-> [[/blog/start-blogging|How to Start a Blog: From Zero to Hero]]
-
----
-
-## Upcoming Events
-
-- [ ] **Web Dev Conference** – June 5th, 2023
-- [x] **Photography Workshop** – Completed
-  - Access materials [[/blog/photography-workshop-materials|here]].
-- [ ] Frontend Development Workshop - Jul 10th, 2024
+For more information about Flowershow and how to customize this template, visit:
+- [Flowershow Documentation](https://flowershow.app/docs)
 
 ---
 
-## Thoughts & Code Snippets
-
-```javascript
-// JavaScript to brighten your day
-console.log("Keep smiling and keep coding!");
-```
-
-```python
-def enjoy_life():
-    return "Take time to smell the roses."
-```
-
----
-
-### Thanks for visiting!
-
-_For any inquiries or just to say hi, send me a message at contact@myblog.com._
-
-> [!note] Check back often for more updates, stories, and inspiration!
+Happy publishing! 🚀

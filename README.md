@@ -6,4 +6,10 @@
 
 anyway，总之你们看的开心就好。
 
-网址：https://my.flowershow.app/@tsssss77/flowershow
+以防万一有人找不到的本站网址：https://my.flowershow.app/@tsssss77/flowershow
+
+更新一下：
+
+在我试图把这个网址挂到lof上去的时候审核给我打回来了，理由是“可能涉及到对性器官/胸臀部/性用品/性行为/风俗从业人员等的描写”，然后我看了一下我的文本……
+
+你说的不会是“白嫖github的服务器”吧……
